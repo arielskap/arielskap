@@ -10,11 +10,17 @@ Argentine roots, Mexican life. 8+ years turning ideas into systems that scale.
 
 #### What I'm building
 
-**[Hexagramia](https://www.hexagramia.com)** — AI-powered music composition & harmonic analysis *(in progress)*
+**Arturito** — AI agents platform for businesses. Automates contact forms, customer responses, and more.
 
-**[Utopicx](https://utopicx.vercel.app)** — Founded & grew to 20K+ organic downloads. AI voice generation for the music industry.
+#### What I've built
 
-**[Pulppo](https://pulppo.com)** — Architected a PropTech platform serving 3 countries. Boosted team productivity ~300% with AI.
+**[Hexagramia](https://www.hexagramia.com)** — AI voice conversion platform. Send an audio, get it back sounding like anyone. B2B for the music industry.
+
+**[Alta Previa](https://www.altaprevia.com)** — Social party games app. 20K+ organic downloads, real-time multiplayer with WebSockets.
+
+Both built under **Utopicx**, my startup where I led a 3-person team shipping AI and consumer products.
+
+**[Pulppo](https://pulppo.com)** — YCombinator-backed PropTech platform. Been there since day one, helped build and scale it across 3 countries.
 
 ---
 
