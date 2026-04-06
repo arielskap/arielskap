@@ -16,7 +16,7 @@ Argentine roots, Mexican life. 8+ years turning ideas into systems that scale.
 
 **[Hexagramia](https://www.hexagramia.com)** — AI voice conversion platform. Send an audio, get it back sounding like anyone. B2B for the music industry.
 
-**[Alta Previa](https://www.altaprevia.com)** — Social party games app. 20K+ organic downloads, real-time multiplayer with WebSockets.
+**[Alta Previa](https://www.altaprevia.com)** — Social party games app. 20K+ organic downloads.
 
 Both built under **Utopicx**, my startup where I led a 3-person team shipping AI and consumer products.
 
@@ -34,4 +34,4 @@ I design systems, lead teams, and integrate AI where it actually matters.
 
 > *"Explore beyond current human frontiers"*
 
-[LinkedIn](https://linkedin.com/in/ariel-villarreal) · [Portfolio](https://arielvillarreal.com) · [Email](mailto:arielvillagu@hotmail.com)
+[LinkedIn](https://linkedin.com/in/ariel-villarreal) · [Portfolio](https://arielvillarreal.dev) · [Email](mailto:arielvillagu@hotmail.com)
