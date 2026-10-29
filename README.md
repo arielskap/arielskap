@@ -1,37 +1,42 @@
+<p align="center">
+  <img src="assets/insignia.svg" width="72" height="72" alt="Ariel Villarreal insignia">
+</p>
+
 ```
-  Making the impossible possible.
+  If it can be imagined, it can be shipped.
 ```
 
-I'm **Ariel Villarreal** — a Senior Developer & Founder shipping AI-powered products from Latin America.
+I'm **Ariel Villarreal** — a Tech Lead & AI Engineer building AI agents that run in production, and the products around them.
 
-Argentine roots, Mexican life. 8+ years turning ideas into systems that scale.
+Argentine with Mexican roots, back in Buenos Aires after five years in Mexico City. 10+ years in software.
 
 ---
 
 #### What I'm building
 
-**Arturito** — AI agents platform for businesses. Automates contact forms, customer responses, and more.
+**[Arturito](https://arturito.ai)** — WhatsApp AI sales agents for real-estate brokerages across LATAM. I lead the whole platform end to end: agents backend, web builder, mobile app and AWS infrastructure. 170+ agents in production; I built the eval harness and canary/A-B tests that migrated the fleet's model at 42–53% lower cost per conversation.
 
 #### What I've built
 
-**[Hexagramia](https://www.hexagramia.com)** — AI voice conversion platform. Send an audio, get it back sounding like anyone. B2B for the music industry.
+**[Pulppo](https://pulppo.com)** — YCombinator-backed PropTech platform (2022–2026). Helped build its real-estate CRM and scale it across Mexico, Colombia and Argentina.
 
-**[Alta Previa](https://www.altaprevia.com)** — Social party games app. 20K+ organic downloads.
+**Utopicx** — my startup (2022–2025), where I led a 3-person team:
+**[Hexagramia](https://www.hexagramia.com)**, an AI voice platform for the music industry, and **[Alta Previa](https://www.altaprevia.com)**, a party games app with 20K+ organic downloads.
 
-Both built under **Utopicx**, my startup where I led a 3-person team shipping AI and consumer products.
+#### Side quests
 
-**[Pulppo](https://pulppo.com)** — YCombinator-backed PropTech platform. Been there since day one, helped build and scale it across 3 countries.
+Online stores for [Mota Comix](https://motacomix.com) and [Cabiriart](https://cabiriart.com) · TalkIA, an AI English teacher in a pixel-art café · a VR recreation of Charly García's jump in Unity · *Defensa de Tenochtitlan*, a browser strategy game.
 
 ---
 
 #### How I work
 
-I design systems, lead teams, and integrate AI where it actually matters.
+I design systems, lead teams, and put AI where it actually matters — measured with evals, not vibes.
 
-`React` · `Next.js` · `Node.js` · `Python` · `TypeScript` · `GCP` · `Docker` · `Kubernetes`
+`TypeScript` · `Next.js` · `React Native` · `Node.js` · `LangGraph` · `Python` · `AWS` · `Terraform` · `Docker`
 
 ---
 
 > *"Explore beyond current human frontiers"*
 
-[LinkedIn](https://linkedin.com/in/ariel-villarreal) · [Portfolio](https://arielvillarreal.dev) · [Email](mailto:arielvillagu@hotmail.com)
+[Portfolio](https://www.arielvillarreal.dev) · [LinkedIn](https://linkedin.com/in/ariel-villarreal) · [Email](mailto:arielvillagu@hotmail.com)
